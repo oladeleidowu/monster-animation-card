@@ -1,2 +1,2 @@
-# monster-animation-card
-Monster Animation Card Project
+# MONSTER-CARD-ANIMATION
+Pepsi card animation , smooth, awesome and beautiful.
