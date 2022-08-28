@@ -1,2 +1,2 @@
 # MONSTER-CARD-ANIMATION
-Pepsi card animation , smooth, awesome and beautiful.
+Monster card animation , smooth, awesome and beautiful.
